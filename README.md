@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b0a1b8a-5d26-4f99-82ea-8279f8713608)<h2 align="left">Hi 👋! My name is Ilyax and I'm a Coder ig, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Ilyax and I'm a Coder ig, from Turkey</h2>
 
 ###
 
