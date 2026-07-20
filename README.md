@@ -1,5 +1,10 @@
 # 💫 About Me:
-The God of coder.<br>Language: Python, Html, Css, Javascript, Rust, Golang, Deno, TypeScript, C#, Nodejs, ElectroJS, Ahk.<br>Best At: TensorFlow, Aura Farming, DiscordJS, Linux and More!<br>Currently working on: https://ilyaxuwu.github.io/astral/production.html<br>Discord: aeaeae_aeaeaeae_aeaeae (1115700478005743758)
+Coding for complex systems & pure entertainment.
+
+Türkiye: GMT+3
+Paris\Genevra: GMT+1
+Next gen asset management.
+https://ilyaxuwu.github.io/astral/production.html<br>Discord: aeaeae_aeaeaeae_aeaeae (1115700478005743758)
 
 
 ## 🌐 Socials:
