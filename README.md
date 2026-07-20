@@ -1,8 +1,6 @@
 # 💫 About Me:
-Coding for complex systems & pure entertainment.
-
-Türkiye: GMT+3
-Paris\Genevra: GMT+1
+Coding for complex systems & pure entertainment. <br>
+Paris / Geneva | GMT+1 <br>
 Next gen asset management.
 https://ilyaxuwu.github.io/astral/production.html<br>Discord: aeaeae_aeaeaeae_aeaeae (1115700478005743758)
 
